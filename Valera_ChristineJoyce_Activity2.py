@@ -1,0 +1,7 @@
+print("===== USER PROFILE =====")
+print("Name: Christine Joyce Cariño Valera")
+print("Age: 17")
+print("Course: BS Information Technology")
+print("Section: 1BSIT-S17")
+print("Address: Tambo Adorable, San Leonardo, Nueva Ecija")
+print("Favorite Food: Sinigang, Shawarma, Mango Graham")

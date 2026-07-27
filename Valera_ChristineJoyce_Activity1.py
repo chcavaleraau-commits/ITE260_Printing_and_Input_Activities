@@ -1,0 +1,7 @@
+print("===== STUDENT INFORMATION =====")
+print("Name: Christine Joyce Cariño Valera")
+print("Age: 17")
+print("Course: BS Information Technology")
+print("Section: BSIT-S10")
+print("Address: Tambo Adorable, San Leonardo, Nueva Ecija")
+print("Favorite Hobby: Playing online games, basketball, and badminton")
